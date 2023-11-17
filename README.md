@@ -1,3 +1,15 @@
+# Jogos-com-python
+## Praticando habilidades, criei um jogo de adivinhação de números e o clássico jogo da forca utilizando a linguagem de programação Python.
+Neste portfólio, você encontrará duas recriações de jogos elaboradas por mim:
+
+**Jogo de Adivinhação de Números:**
+O jogo de adivinhação de números é uma criação que explora minhas habilidades em lógica de programação. Os jogadores têm a oportunidade de testar suas habilidades tentando adivinhar um número escolhido aleatoriamente pelo programa. Este jogo oferece uma experiência envolvente, desafiadora e interativa, destacando minha dedicação em proporcionar diversão por meio de código.
+
+**Jogo da Forca:**
+Outra adição emocionante ao meu portfólio é o clássico jogo da forca, completamente reimaginado por meio da linguagem de programação Python. Neste projeto, os jogadores podem aprimorar seu conhecimento de palavras enquanto se divertem tentando desvendar a palavra oculta antes de completar o desenho da forca. Além de destacar minhas habilidades de programação, este jogo enfatiza minha capacidade de criar experiências cativantes e desafiadoras para os usuários.
+
+
+
 # Games-with-python
 
 ## Practicing skills, I've created a number guessing game and the classic hangman game using the Python programming language.
