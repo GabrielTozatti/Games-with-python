@@ -1,4 +1,4 @@
-# Jogos-com-python
+# Jogos com python
 ## Praticando habilidades, criei um jogo de adivinhação de números e o clássico jogo da forca utilizando a linguagem de programação Python.
 Neste portfólio, você encontrará duas recriações de jogos elaboradas por mim:
 
